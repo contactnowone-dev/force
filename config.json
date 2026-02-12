@@ -1,0 +1,146 @@
+{
+  "nomSite": "FORCE & MENTAL",
+  "slogan": "Dépasse tes limites, forge ton univers.",
+  "menu": [
+    {
+      "nom": "Accueil",
+      "lien": "index.html"
+    },
+    {
+      "nom": "FORCE",
+      "lien": "page01.html"
+    },
+    {
+      "nom": "CARDIO",
+      "lien": "page02.html"
+    },
+    {
+      "nom": "MENTAL & RÉCUP",
+      "lien": "page03.html"
+    },
+    {
+      "nom": "Contact",
+      "lien": "contact.html"
+    },
+    {
+      "nom": "L'Envers du Décor",
+      "lien": "stack.html"
+    }
+  ],
+  "produits": {
+    "page01": [
+      {
+        "titre": "Haltères Réglables 40KG",
+        "prix": "399.00€",
+        "image": "https://m.media-amazon.com/images/I/81VgX2RntNL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/4qwR4S4"
+      },
+      {
+        "titre": "Banc de Musculation ",
+        "prix": "84.99€",
+        "image": "https://m.media-amazon.com/images/I/61w-FtBW0hL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/4aN2sV6"
+      },
+      {
+        "titre": "Bandes",
+        "prix": "28.99€",
+        "image": "https://m.media-amazon.com/images/I/81-9mImneRL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/4qDLa1B"
+      },
+      {
+        "titre": " Barre de Traction",
+        "prix": "39.99€",
+        "image": "https://m.media-amazon.com/images/I/61hNl7hKIvL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3OF5Ybq"
+      },
+      {
+        "titre": "Poignées de Pompes",
+        "prix": "13.99€",
+        "image": "https://m.media-amazon.com/images/I/717xvbyoj1L._AC_SL1500_.jpg",
+        "link": "https://amzn.to/4avWeb0"
+      },
+      {
+        "titre": "Kettlebell en Fonte",
+        "prix": "28.16€",
+        "image": "https://m.media-amazon.com/images/I/71qrBgUzwHL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/4acQG6m"
+      }
+    ],
+    "page02": [
+      {
+        "titre": "Corde à Sauters",
+        "prix": "19.99€",
+        "image": "https://m.media-amazon.com/images/I/617qOyy9AAL._AC_SL1100_.jpg",
+        "link": "https://amzn.to/4aNoo2s"
+      },
+      {
+        "titre": "Vélo d'appartement pliable",
+        "prix": "139.99€",
+        "image": "https://m.media-amazon.com/images/I/71Xwfpjq14L._AC_SL1500_.jpg",
+        "link": "https://amzn.to/4ktcq16"
+      },
+      {
+        "titre": "Tapis de course incliné",
+        "prix": "169.99€",
+        "image": "https://m.media-amazon.com/images/I/71MVrBXhCIL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/4rkekUw"
+      },
+      {
+        "titre": "Vélo elliptique compact",
+        "prix": "149.99€",
+        "image": "https://m.media-amazon.com/images/I/61A0k2ze3jL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/4coT23h"
+      },
+      {
+        "titre": "Stepper avec bandes de résistance",
+        "prix": "187.00€",
+        "image": "https://m.media-amazon.com/images/I/81tBneqQwTL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/402HJqe"
+      },
+      {
+        "titre": "Rameur Pliable ",
+        "prix": "159.99€",
+        "image": "https://m.media-amazon.com/images/I/61YuXCebEuL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3Mxnz4q"
+      }
+    ],
+    "page03": [
+      {
+        "titre": "Pistolet de massage musculaire",
+        "prix": "119.99€",
+        "image": "https://m.media-amazon.com/images/I/61qr8QzhoHL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/4re2MSF"
+      },
+      {
+        "titre": "Montre connectée Fitness",
+        "prix": "189.99€",
+        "image": "https://m.media-amazon.com/images/I/71266Tt78BL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/4ajR8yg"
+      },
+      {
+        "titre": "Rouleau de Massage Musculaire",
+        "prix": "34.99€",
+        "image": "https://m.media-amazon.com/images/I/71MGAla-jiL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/4qwhzqE"
+      },
+      {
+        "titre": "Casque à Conduction Osseuse",
+        "prix": "199.00€",
+        "image": "https://m.media-amazon.com/images/I/51r-dKlDUVL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/4r8OZgd"
+      },
+      {
+        "titre": "Kit d'acupression ",
+        "prix": "37.95€",
+        "image": "https://m.media-amazon.com/images/I/81Ffczn6ZfL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/4cwvABc"
+      },
+      {
+        "titre": "Sweats à Capuche",
+        "prix": "54.99€",
+        "image": "https://m.media-amazon.com/images/I/61H-RHoIm-L._AC_SX679_.jpg",
+        "link": "https://amzn.to/4twOfD1"
+      }
+    ]
+  }
+}
